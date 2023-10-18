@@ -72,14 +72,31 @@ print("RMSE = ",rmse)
 ```
 
 ## Output:
+1. df.head()
 ![Screenshot (25)](https://github.com/MaheshMuthuL/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/135570619/6917a59e-d5b2-4cb8-ad9d-c89935d0db36)
+
+2. df.tail()
 ![Screenshot (26) - Copy](https://github.com/MaheshMuthuL/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/135570619/684a65f5-5b24-4cde-9a97-5bb12621d8c8)
+
+ 3. Array value of X
 ![Screenshot (27)](https://github.com/MaheshMuthuL/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/135570619/a8cda932-d4e8-4ad6-97bf-09e36c0abebb)
+
+ 4. Array value of Y
 ![Screenshot (28)](https://github.com/MaheshMuthuL/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/135570619/2d2d83d8-efd7-4fa4-a835-e7ea5eb85728)
+
+ 5. Values of Y prediction
 ![Screenshot (32)](https://github.com/MaheshMuthuL/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/135570619/f0ce2721-6e60-4df7-9a8f-3b1380581db9)
+
+ 6. Array values of Y test
 ![Screenshot (35)](https://github.com/MaheshMuthuL/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/135570619/819d7d3a-6d5e-4430-84b2-b9962d477946)
+
+7. Training Set Graph
 ![Screenshot (30)](https://github.com/MaheshMuthuL/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/135570619/fa83ea33-405f-449e-8680-62f611cfee5f)
+
+8. Test Set Graph
 ![Screenshot (34)](https://github.com/MaheshMuthuL/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/135570619/1e72f794-0a30-43a5-89b9-311570e46bfb)
+
+9. Values of MSE, MAE and RMSE
 ![Screenshot (31)](https://github.com/MaheshMuthuL/Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored/assets/135570619/877d66fe-ef68-43b6-a580-61880437a46d)
 
 
